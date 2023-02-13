@@ -1,1 +1,1 @@
-"It prints the name of the kernel, which is the core part of the operating system" 
+"The uname command without any option will print the name of the operating system on the machine where it is run. On a Linux system, it will print the string "Linux"." 
